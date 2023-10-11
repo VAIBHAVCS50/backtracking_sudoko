@@ -98,5 +98,3 @@ function isvalid(arr, i, j, k) {
     }
     return true;
 }
-
-window.onload = createSudokuGrid;

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sudoku Input</title>
-    <script src="myscript.js"></script>
+    <script src="logic.js"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
@@ -38,7 +38,11 @@
         <button class="btn btn-primary" onclick="dosomething()">Solve</button>
         <p class="text-danger mt-4" id="errmsg"></p>
     </div>
-    
+    <script>
+        
+     window.onload = createSudokuGrid;
+
+    </script>
  
 </body>
 </html>
