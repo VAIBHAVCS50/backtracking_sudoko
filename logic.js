@@ -1,5 +1,4 @@
 
-// Function to create the Sudoku grid with input boxes using JavaScript
 function createSudokuGrid() {
     const sudokuGrid = document.getElementById('sudoku-grid');
 
@@ -47,6 +46,8 @@ function dosomething(){
                     val.value = arr[row][col].toString();
                 }
             }
+         
+            errmsg.innerText = "";
         } else {
             console.log(arr);
             const errmsg = document.getElementById('errmsg');
