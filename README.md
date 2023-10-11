@@ -3,7 +3,7 @@
 
 A simple web application for solving Sudoku puzzles using backtracking. This application allows you to input a Sudoku puzzle, click the "Solve" button, and watch as it efficiently finds the solution. If the puzzle is not solvable, the app will inform you. You can also clear the grid and input a new puzzle.
 
-**Live Demo**: [Sudoku Solver Demo](https://backtracking-sudoku-solver.vercel.app/)
+**Live Demo**: [Sudoku Solver Demo](https://backtracking-sudoko.vercel.app/)
 
 ## Features
 
@@ -13,7 +13,7 @@ A simple web application for solving Sudoku puzzles using backtracking. This app
 
 ## Demo
 
-Check out the live demo: [Sudoku Solver Demo](https://backtracking-sudoku-solver.vercel.app/)
+Check out the live demo: [Sudoku Solver Demo](https://backtracking-sudoko.vercel.app/)
 
 ## How It Works
 
